@@ -1,7 +1,7 @@
 body{
     background-color: lavender;
     font-family: cursive;
-    text-align: justify;
+    text-align: justify !important;
   }
 
   p{
